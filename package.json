@@ -1,0 +1,11 @@
+{
+  "name": "ecoconnect",
+  "version": "1.0.0",
+  "description": "EcoConnect - Community-Based E-Waste Collection Platform",
+  "scripts": {
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "seed": "npm --prefix server run seed",
+    "test": "npm --prefix server test"
+  }
+}
